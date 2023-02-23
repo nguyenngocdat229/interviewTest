@@ -1,5 +1,5 @@
 
-# Getting Started with Create React App
+# Getting Started with This Project
 # Link Self-review Video using Loom : https://www.loom.com/share/476dde1c0c0f479ba54c1713fea57924
 
 # Step 1 :
