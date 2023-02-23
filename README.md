@@ -3,7 +3,7 @@
 # Link Self-review Video using Loom : https://www.loom.com/share/476dde1c0c0f479ba54c1713fea57924
 
 # Step 1 :
-cd interviewtest 
+cd interviewTest 
 
 # Step 2 :
 Run "npm i" in terminal to install all framework and library this project using
