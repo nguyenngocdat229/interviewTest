@@ -1,6 +1,7 @@
 
 # Getting Started with This Project
 # Link Self-review Video using Loom : https://www.loom.com/share/476dde1c0c0f479ba54c1713fea57924
+# Link deploy : https://nguyenngocdat-twendee.netlify.app/
 
 # Step 1 :
 cd interviewTest 
